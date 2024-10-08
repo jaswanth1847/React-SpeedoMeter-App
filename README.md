@@ -1,6 +1,9 @@
+# Speedometer
+
+
 ## Functionality to be added
 
-# The app must have the following functionalities
+The app must have the following functionalities
 
 The speed should initially be 0 mph
 
