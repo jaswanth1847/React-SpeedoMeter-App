@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-SpeedoMeter-App/static/css/main.08a86efb.css",
+    "main.js": "/React-SpeedoMeter-App/static/js/main.013324b8.js",
+    "static/js/453.0f10a1a4.chunk.js": "/React-SpeedoMeter-App/static/js/453.0f10a1a4.chunk.js",
+    "index.html": "/React-SpeedoMeter-App/index.html",
+    "main.08a86efb.css.map": "/React-SpeedoMeter-App/static/css/main.08a86efb.css.map",
+    "main.013324b8.js.map": "/React-SpeedoMeter-App/static/js/main.013324b8.js.map",
+    "453.0f10a1a4.chunk.js.map": "/React-SpeedoMeter-App/static/js/453.0f10a1a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08a86efb.css",
+    "static/js/main.013324b8.js"
+  ]
+}
